@@ -15,24 +15,23 @@ Data Folder: This folder survey data collected from Harvard Dataverse.
 2. Partial Dependency Plots
 
 3. Clustering:
-<pre> 
-i. K means
-<pre>
+
+    i. K means
 
 4. Classification and regression:
-<pre>
-  i. Logistic Regression
 
-  ii. Random Forests
+    i. Logistic Regression
+    
+    ii. Random Forests
+    
+    iii. Decision Tree
+    
+    iv. XGBoost
+    
+    v. Spline Regression
+    
+    vi. Latent Class Regression
 
-  iii. Decision Tree
-
-  iv. XGBoost
-
-  v. Spline Regression
-
-  vi. Latent Class Regression
-<pre>
 
 
 
