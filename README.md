@@ -16,7 +16,7 @@ Data Folder: This folder survey data collected from Harvard Dataverse.
 
 3. Clustering:
 
-  i. K means
+<pre> i. K means
 
 4. Classification and regression:
 
