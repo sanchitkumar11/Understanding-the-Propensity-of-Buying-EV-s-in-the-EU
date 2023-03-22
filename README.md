@@ -16,21 +16,21 @@ Data Folder: This folder survey data collected from Harvard Dataverse.
 
 3. Clustering:
 
-i. K means
+  i. K means
 
 4. Classification and regression:
 
-i. Logistic Regression
+  i. Logistic Regression
 
-ii. Random Forests
+  ii. Random Forests
 
-iii. Decision Tree
+  iii. Decision Tree
 
-iv. XGBoost
+  iv. XGBoost
 
-v. Spline Regression
+  v. Spline Regression
 
-vi. Latent Class Regression
+  vi. Latent Class Regression
 
 
 
