@@ -15,8 +15,9 @@ Data Folder: This folder survey data collected from Harvard Dataverse.
 2. Partial Dependency Plots
 
 3. Clustering:
-
-<pre> i. K means<pre>
+<pre> 
+i. K means
+<pre>
 
 4. Classification and regression:
 <pre>
