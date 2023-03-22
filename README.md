@@ -10,7 +10,7 @@ This dataset revolves around identify key factors that influence a consumer's de
 Code Folder: This folder contains the main python notebook which covers our main code. 
 Data Folder: This folder survey data collected from Harvard Dataverse. 
 
-# Methods included in our analysis
+# Methods included in analysis
 1. t-SNE
 2. Partial Dependency Plots
 
